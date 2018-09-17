@@ -1,0 +1,86 @@
+SAMPLE LABEL,,RNA description,,,,,,Experiment  description,,,
+#,,Ratio 260/ 280,Ratio 260/ 230,RIN,Mean conc [ng/µl],Volume (µl),DNase pre-treatment,Short name,Treatment ,Genotype ,Comments
+#2,total-RNA AG-Freichel / JEC Londono 190117-2/ TAC10.7d #A.1,2.0,1.9,8.4,124,48,yes,TRPC1/C4-TAC 7 days,Sham,WT: C57BL6/N,
+#6,total-RNA AG-Freichel / JEC Londono 190117-6/ TAC10.7d #A.2,2.0,1.9,8.8,127,48,yes,TRPC1/C4-TAC 7 days,Sham,WT: C57BL6/N,
+#8,total-RNA AG-Freichel / JEC Londono 190117-8/ TAC10.7d #A.3,2.0,1.9,8.3,86,48,yes,TRPC1/C4-TAC 7 days,Sham,WT: C57BL6/N,
+#10,total-RNA AG-Freichel / JEC Londono 190117-10/ TAC10.7d #A.4,2.0,1.9,8.6,123,48,yes,TRPC1/C4-TAC 7 days,Sham,WT: C57BL6/N,
+#13,total-RNA AG-Freichel / JEC Londono 190117-13/ TAC10.7d #A.5,2.0,2.0,8.5,154,40,yes,TRPC1/C4-TAC 7 days,TAC: 7 days,WT: C57BL6/N,
+#14,total-RNA AG-Freichel / JEC Londono 190117-14/ TAC10.7d #A.6,2.0,1.9,8.5,129,40,yes,TRPC1/C4-TAC 7 days,TAC: 7 days,WT: C57BL6/N,
+#15,total-RNA AG-Freichel / JEC Londono 190117-15/ TAC10.7d #A.7,2.1,1.9,9.0,138,40,yes,TRPC1/C4-TAC 7 days,TAC: 7 days,WT: C57BL6/N,
+#16,total-RNA AG-Freichel / JEC Londono 190117-16/ TAC10.7d #A.8,2.0,2.0,9.1,254,40,yes,TRPC1/C4-TAC 7 days,TAC: 7 days,WT: C57BL6/N,
+#20,total-RNA AG-Freichel / JEC Londono 190117-20/ TAC10.7d #A.9,2.0,1.2,8.3,130,40,yes,TRPC1/C4-TAC 7 days,Sham,KO: TRPC1/TRPC4 (-/-)2,Mice deficient for TRPC1 and TRPC4 proteins
+#22,total-RNA AG-Freichel / JEC Londono 190117-22/ TAC10.7d #A.10,2.0,1.9,7.5,138,45,yes,TRPC1/C4-TAC 7 days,Sham,KO: TRPC1/TRPC4 (-/-)2,Mice deficient for TRPC1 and TRPC4 proteins
+#23,total-RNA AG-Freichel / JEC Londono 190117-23/ TAC10.7d #A.11,2.0,1.9,7.7,119,45,yes,TRPC1/C4-TAC 7 days,Sham,KO: TRPC1/TRPC4 (-/-)2,Mice deficient for TRPC1 and TRPC4 proteins
+#24,total-RNA AG-Freichel / JEC Londono 190117-24/ TAC10.7d #A.12,1.9,1.8,7.5,97,45,yes,TRPC1/C4-TAC 7 days,Sham,KO: TRPC1/TRPC4 (-/-)2,Mice deficient for TRPC1 and TRPC4 proteins
+#26,total-RNA AG-Freichel / JEC Londono 190117-26/ TAC10.7d #A.13,2.0,1.9,7.7,143,45,yes,TRPC1/C4-TAC 7 days,TAC: 7 days,KO: TRPC1/TRPC4 (-/-)2,Mice deficient for TRPC1 and TRPC4 proteins
+#27,total-RNA AG-Freichel / JEC Londono 190117-27/ TAC10.7d #A.14,2.0,1.9,7.5,107,45,yes,TRPC1/C4-TAC 7 days,TAC: 7 days,KO: TRPC1/TRPC4 (-/-)2,Mice deficient for TRPC1 and TRPC4 proteins
+#28,total-RNA AG-Freichel / JEC Londono 190117-28/ TAC10.7d #A.15,2.0,2.0,7.4,143,45,yes,TRPC1/C4-TAC 7 days,TAC: 7 days,KO: TRPC1/TRPC4 (-/-)2,Mice deficient for TRPC1 and TRPC4 proteins
+#29,total-RNA AG-Freichel / JEC Londono 190117-29/ TAC10.7d #A.16,2.0,1.9,7.7,148,45,yes,TRPC1/C4-TAC 7 days,TAC: 7 days,KO: TRPC1/TRPC4 (-/-)2,Mice deficient for TRPC1 and TRPC4 proteins
+,,,,,,,,,,,
+#31,total-RNA AG-Freichel / JEC Londono 190117-31/ TAC9.7d #B.1,2.0,1.9,7.7,118,45,yes,WU4-TAC 7 days,Sham,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#32,total-RNA AG-Freichel / JEC Londono 190117-32/ TAC9.7d #B.2,2.0,1.7,7.7,114,45,yes,WU4-TAC 7 days,Sham,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#33,total-RNA AG-Freichel / JEC Londono 190117-33/ TAC9.7d #B.3,1.9,1.9,7.4,106,45,yes,WU4-TAC 7 days,Sham,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#34,total-RNA AG-Freichel / JEC Londono 190117-34/ TAC9.7d #B.4,2.0,1.7,7.5,112,45,yes,WU4-TAC 7 days,Sham,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#37,total-RNA AG-Freichel / JEC Londono 190117-37/ TAC9.7d #B.5,2.0,2.0,8.2,134,45,yes,WU4-TAC 7 days,TAC: 7 days,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#38,total-RNA AG-Freichel / JEC Londono 190117-38/ TAC9.7d #B.6,2.0,1.9,8.1,140,45,yes,WU4-TAC 7 days,TAC: 7 days,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#40,total-RNA AG-Freichel / JEC Londono 190117-40 TAC9.7d #B.7,2.0,1.9,8.0,156,45,yes,WU4-TAC 7 days,TAC: 7 days,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#41,total-RNA AG-Freichel / JEC Londono 190117-41/ TAC9.7d #B.8,2.0,1.9,8.3,140,45,yes,WU4-TAC 7 days,TAC: 7 days,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#42,total-RNA AG-Freichel / JEC Londono 190117-42/ TAC9.7d #B.9,2.0,1.6,8.1,120,45,yes,WU4-TAC 7 days,Sham,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#43,total-RNA AG-Freichel / JEC Londono 190117-43/ TAC9.7d #B.10,2.0,1.7,7.9,120,45,yes,WU4-TAC 7 days,Sham,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#44,total-RNA AG-Freichel / JEC Londono 190117-44/ TAC9.7d #B.11,2.0,1.9,7.9,124,45,yes,WU4-TAC 7 days,Sham,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#45,total-RNA AG-Freichel / JEC Londono 190117-45/ TAC9.7d #B.12,2.0,1.8,8.0,109,45,yes,WU4-TAC 7 days,Sham,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#48,total-RNA AG-Freichel / JEC Londono 190117-48/ TAC9.7d #B.13,2.0,1.8,7.8,122,45,yes,WU4-TAC 7 days,TAC: 7 days,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#49,total-RNA AG-Freichel / JEC Londono 190117-49/ TAC9.7d #B.14,2.0,1.8,8.4,90,45,yes,WU4-TAC 7 days,TAC: 7 days,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#50,total-RNA AG-Freichel / JEC Londono 190117-50/ TAC9.7d #B.15,2.0,2.0,8.6,105,45,yes,WU4-TAC 7 days,TAC: 7 days,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#51,total-RNA AG-Freichel / JEC Londono 190117-51/ TAC9.7d #B.16,2.0,2.0,8.3,209,45,yes,WU4-TAC 7 days,TAC: 7 days,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+,,,,,,,,,,,
+#2,total-RNA AG-Freichel / JEC Londono 160217-2/ Iso41 #C.1,1.9,1.7,8.1,81,~50,yes,WU4-Iso 7 days,Saline,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#3,total-RNA AG-Freichel / JEC Londono 160217-3/ Iso41 #C.2,1.9,1.7,8,103,~50,yes,WU4-Iso 7 days,Saline,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#4,total-RNA AG-Freichel / JEC Londono 160217-4/ Iso41 #C.3,1.9,1.7,7.9,83,~50,yes,WU4-Iso 7 days,Saline,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#5,total-RNA AG-Freichel / JEC Londono 160217-5/ Iso41 #C.4,1.9,1.7,8.1,77,~50,yes,WU4-Iso 7 days,Saline,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#7,total-RNA AG-Freichel / JEC Londono 160217-7/ Iso41 #C.5,1.9,1.7,8.6,127,~50,yes,WU4-Iso 7 days,Isoproterenol: 7 days,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#9,total-RNA AG-Freichel / JEC Londono 160217-9/ Iso41 #C.6,1.9,1.7,8.2,118,~50,yes,WU4-Iso 7 days,Isoproterenol: 7 days,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#10,total-RNA AG-Freichel / JEC Londono 160217-10/ Iso41 #C.7,1.9,1.8,8.2,108,~50,yes,WU4-Iso 7 days,Isoproterenol: 7 days,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#12,total-RNA AG-Freichel / JEC Londono 160217-12/ Iso41 #C.8,1.9,1.8,8.1,71,~50,yes,WU4-Iso 7 days,Isoproterenol: 7 days,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#15,total-RNA AG-Freichel / JEC Londono 160217-15/ Iso41 #C.9,1.9,1.8,8,69,~50,yes,WU4-Iso 7 days,Saline,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#16,total-RNA AG-Freichel / JEC Londono 160217-16/ Iso41 #C.10,1.9,1.7,8.3,64,~50,yes,WU4-Iso 7 days,Saline,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#17,total-RNA AG-Freichel / JEC Londono 160217-17/ Iso41 #C.11,1.9,1.6,7.9,69,~50,yes,WU4-Iso 7 days,Saline,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#18,total-RNA AG-Freichel / JEC Londono 160217-18/ Iso41 #C.12,1.9,1.7,8.3,69,~50,yes,WU4-Iso 7 days,Saline,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#20,total-RNA AG-Freichel / JEC Londono 160217-20/ Iso41 #C.13,1.9,1.7,8.9,72,~50,yes,WU4-Iso 7 days,Isoproterenol: 7 days,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#21,total-RNA AG-Freichel / JEC Londono 160217-21/ Iso41 #C.14,1.9,1.7,8.9,80,~50,yes,WU4-Iso 7 days,Isoproterenol: 7 days,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#22,total-RNA AG-Freichel / JEC Londono 160217-22/ Iso41 #C.15,1.9,1.7,8.8,82,~50,yes,WU4-Iso 7 days,Isoproterenol: 7 days,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#23,total-RNA AG-Freichel / JEC Londono 160217-23/ Iso41 #C.16,1.9,1.7,8.9,71,~50,yes,WU4-Iso 7 days,Isoproterenol: 7 days,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+,,,,,,,,,,,
+#25,total-RNA AG-Freichel / JEC Londono 160217-25/ TAC9.2d #D.1,1.9,1.7,8.6,91,~50,yes,WU4-TAC 2days,Sham,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#26,total-RNA AG-Freichel / JEC Londono 160217-26/ TAC9.2d #D.2,1.8,1.8,8.3,70,~50,yes,WU4-TAC 2days,Sham,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#1,total-RNA AG-Freichel / JEC Londono 270217-1/ TAC9.2d #D.3,1.9,1.6,8.5,79,~50,yes,WU4-TAC 2days,Sham,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#2,total-RNA AG-Freichel / JEC Londono 270217-2/ TAC9.2d #D.4,1.9,1.6,8.2,77,~50,yes,WU4-TAC 2days,Sham,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#28,total-RNA AG-Freichel / JEC Londono 160217-28/ TAC9.2d #D.5,1.9,1.7,8.8,94,~50,yes,WU4-TAC 2days,TAC: 48h,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#29,total-RNA AG-Freichel / JEC Londono 160217-29/ TAC9.2d #D.6,1.9,1.8,8.5,94,~50,yes,WU4-TAC 2days,TAC: 48h,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#3,total-RNA AG-Freichel / JEC Londono 270217-3/ TAC9.2d #D.7,1.9,1.6,8.4,59,~50,yes,WU4-TAC 2days,TAC: 48h,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#12,total-RNA AG-Freichel / JEC Londono 270217-12/ TAC10.2d #D.8,2.0,1.8,8.7,125,~50,yes,WU4-TAC 2days,TAC: 48h,Control: Wu4fx/fx-aMHC-CreERT2-neg (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#31,total-RNA AG-Freichel / JEC Londono 160217-31/ TAC9.2d #D.9,1.9,1.8,8.1,96,~50,yes,WU4-TAC 2days,Sham,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#32,total-RNA AG-Freichel / JEC Londono 160217-32/ TAC9.2d #D.10,1.9,1.8,8.2,91,~50,yes,WU4-TAC 2days,Sham,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#33,total-RNA AG-Freichel / JEC Londono 160217-33/ TAC9.2d #D.11,1.9,1.7,8.7,172,~50,yes,WU4-TAC 2days,Sham,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#5,total-RNA AG-Freichel / JEC Londono 270217-5/ TAC9.2d #D.12,1.9,1.7,8.4,97,~50,yes,WU4-TAC 2days,Sham,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#6,total-RNA AG-Freichel / JEC Londono 270217-6/ TAC9.2d #D.13,1.9,1.7,8.7,103,~50,yes,WU4-TAC 2days,TAC: 48h,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#7,total-RNA AG-Freichel / JEC Londono 270217-7/ TAC9.2d #D.14,2.0,1.8,8.9,119,~50,yes,WU4-TAC 2days,TAC: 48h,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#9,total-RNA AG-Freichel / JEC Londono 270217-9/ TAC9.2d #D.15,1.9,1.7,8.5,106,~50,yes,WU4-TAC 2days,TAC: 48h,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+#10,total-RNA AG-Freichel / JEC Londono 270217-10/ TAC9.2d #D.16,2.0,1.8,8.8,107,~50,yes,WU4-TAC 2days,TAC: 48h,Cardiomyocyte KO: Wu4fx/fx-aMHC-CreERT2-pos (Tamoxifen),Wu4 name is officially: Tmem63b (Also found as CSCL2 or CSC1-Like protein 2)
+,,,,,,,,,,,
+#1,total-RNA AG-Freichel / JEC Londono 020317-1/ ATII-26 #E.1,1.9,1.6,8.2,62,35,yes,S1/S2-ATII-14 days,Saline,Control: STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-neg (Tamoxifen),
+#3,total-RNA AG-Freichel / JEC Londono 020317-3/ ATII-26 #E.2,1.9,1.4,8.1,52,35,yes,S1/S2-ATII-14 days,Saline,Control: STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-neg (Tamoxifen),
+#4,total-RNA AG-Freichel / JEC Londono 020317-4/ ATII-26 #E.3,1.9,1.6,8.7,55,35,yes,S1/S2-ATII-14 days,Saline,Control: STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-neg (Tamoxifen),
+#5,total-RNA AG-Freichel / JEC Londono 020317-5/ ATII-26 #E.4,1.9,1.7,8.4,70,35,yes,S1/S2-ATII-14 days,Saline,Control: STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-neg (Tamoxifen),
+#7,total-RNA AG-Freichel / JEC Londono 020317-7/ ATII-26 #E.5,2.0,1.7,8.6,66,35,yes,S1/S2-ATII-14 days,Angiotensin II: 14 days,Control: STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-neg (Tamoxifen),
+#11,total-RNA AG-Freichel / JEC Londono 020317-11/ ATII-26 #E.6,1.9,1.7,8.2,69,35,yes,S1/S2-ATII-14 days,Angiotensin II: 14 days,Control: STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-neg (Tamoxifen),
+#12,total-RNA AG-Freichel / JEC Londono 020317-12/ ATII-26 #E.7,1.9,1.8,8.7,78,35,yes,S1/S2-ATII-14 days,Angiotensin II: 14 days,Control: STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-neg (Tamoxifen),
+#15,total-RNA AG-Freichel / JEC Londono 020317-15/ ATII-26 #E.8,1.9,1.8,8.7,75,35,yes,S1/S2-ATII-14 days,Angiotensin II: 14 days,Control: STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-neg (Tamoxifen),
+#17,total-RNA AG-Freichel / JEC Londono 020317-17/ ATII-26 #E.9,1.9,1.5,8.3,62,35,yes,S1/S2-ATII-14 days,Saline,Cardiac fibroblast KO:STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-pos (Tamoxifen),
+#18,total-RNA AG-Freichel / JEC Londono 020317-18/ ATII-26 #E.10,1.9,1.7,8.1,33,35,yes,S1/S2-ATII-14 days,Saline,Cardiac fibroblast KO:STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-pos (Tamoxifen),
+#19,total-RNA AG-Freichel / JEC Londono 020317-19/ ATII-26 #E.11,1.9,1.8,8.8,63,35,yes,S1/S2-ATII-14 days,Saline,Cardiac fibroblast KO:STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-pos (Tamoxifen),
+#21,total-RNA AG-Freichel / JEC Londono 020317-21/ ATII-26 #E.12,1.9,1.3,8.3,64,35,yes,S1/S2-ATII-14 days,Saline,Cardiac fibroblast KO:STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-pos (Tamoxifen),
+#24,total-RNA AG-Freichel / JEC Londono 020317-24/ ATII-26 #E.13,1.9,1.7,8.1,70,35,yes,S1/S2-ATII-14 days,Angiotensin II: 14 days,Cardiac fibroblast KO:STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-pos (Tamoxifen),
+#28,total-RNA AG-Freichel / JEC Londono 020317-28/ ATII-26 #E.14,1.9,1.8,7.9,67,35,yes,S1/S2-ATII-14 days,Angiotensin II: 14 days,Cardiac fibroblast KO:STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-pos (Tamoxifen),
+#30,total-RNA AG-Freichel / JEC Londono 020317-30/ ATII-26 #E.15,1.9,1.8,8.0,87,35,yes,S1/S2-ATII-14 days,Angiotensin II: 14 days,Cardiac fibroblast KO:STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-pos (Tamoxifen),
+#32,total-RNA AG-Freichel / JEC Londono 020317-32/ ATII-26 #E.16,1.9,1.8,8.2,74,35,yes,S1/S2-ATII-14 days,Angiotensin II: 14 days,Cardiac fibroblast KO:STIM1fx/fx-STIM2fx/fx-Tcf21-CreERT2-pos (Tamoxifen),

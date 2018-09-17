@@ -1,0 +1,6 @@
+pdf 
+  2 
+   (fourFactorControl_saline + fourFactorKO_saline) - (fourFactorControl_Iso + fourFactorKO_Iso)
+-1                                                                                          5284
+0                                                                                          20905
+1                                                                                           4650

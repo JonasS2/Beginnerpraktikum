@@ -1,0 +1,80 @@
+---
+title: "Quality_check"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r warning=FALSE}
+
+```
+
+This is a Quality-check to filter out outliers.
+All Graphs shown are scaled logarithmic.
+We saw a signifcant variation between "p" and "t" groups.
+
+
+
+##Hierachical clustering of all samples:
+![](./../Figures/hcluster.png) 
+
+##Heatmap of all samples:
+![](./../Figures/heatmap.png)
+
+##PCA plot of all samples:
+![](./../Figures/PCA/PCA.png)
+
+##PCA plot of different Genotypes:
+![](./../Figures/PCA/PCA_Genotype.png)
+
+##PCA plot of different Genotypes t cleaned:
+![](./../Figures/PCA/PCA_Genotype_wo_t.png)
+
+##PCA plot of different Treatments:
+![](./../Figures/PCA/PCA_Treatment.png)
+
+##PCA plot of different Treatments t cleaned:
+![](./../Figures/PCA/PCA_Treatment_wo_t.png)
+
+##PCA plot of p and t:
+![](./../Figures/PCA/PCA_p_t.png)
+
+#PCA plot Stim:
+![](./../Figures/PCA/PCA_Stim.png)
+
+#PCA plot Stim_saline:
+![](./../Figures/PCA/PCA_Stim_saline.png)
+
+#PCA plot Stim_Angiotensin:
+![](./../Figures/PCA/PCA_Stim_ATII.png)
+
+#PCA plot TRPC:
+![](./../Figures/PCA/PCA_TRPC.png)
+
+#PCA plot TRPC_sham:
+![](./../Figures/PCA/PCA_TRPC_sham.png)
+
+#PCA plot TRPC_TAC:
+![](./../Figures/PCA/PCA_TRPC_TAC.png)
+
+#PCA plot Wu4:
+![](./../Figures/PCA/PCA_Wu4.png)
+
+#PCA plot Wu4_Isoproterenol:
+![](./../Figures/PCA/PCA_Wu4_Iso.png)
+
+#PCA plot Wu4_saline:
+![](./../Figures/PCA/PCA_Wu4_saline.png)
+
+#PCA plot Wu4_sham:
+![](./../Figures/PCA/PCA_Wu4_sham.png)
+
+#PCA plot Wu4_TAC:
+![](./../Figures/PCA/PCA_Wu4_TAC.png)
+
+
+
+
+
+
